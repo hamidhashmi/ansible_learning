@@ -1,0 +1,5 @@
+
+starts with 3 hyphen/dashed i.e. ---
+Comments with pound/hash # sign
+key-value pairs eg. ntp: ntp.example.come
+Space between colon: and value like ntp:<space>ntp.example.com
